@@ -3,4 +3,4 @@
 *.png
 *image_test_data/
 *image_train_data/
-*ipynb_checkpoints/
+*.ipynb_checkpoints/
